@@ -1,0 +1,66 @@
+/*! Fonts not currently working
+@font-face {
+    font-family: "Inter";
+    src: url("/resources/fonts/Inter-Thin.ttf");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("/resources/fonts/Inter-ExtraLight.ttf");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("/resources/fonts/Inter-Light.ttf");
+    font-weight: 300;
+}
+
+
+@font-face {
+    font-family: "Inter";
+    src: url("/resources/fonts/Inter-Regular.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("/resources/fonts/Inter-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("/resources/fonts/Inter-SemiBold.ttf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("/resources/fonts/Inter-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("/resources/fonts/Inter-ExtraBold.ttf");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("{{ public_path('/resources/fonts/Inter-Black.ttf')}}");
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: Anton;
+    src: url("{{ public_path('fonts/Anton-Regular.ttf') }}");
+}
+
+
+*{
+    font-family: Anton;
+}
+*/

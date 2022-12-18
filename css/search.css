@@ -1,0 +1,11 @@
+
+#team{
+    width: 40%;
+    height: 10%;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    align-self: flex-start;
+    font-size: 7vh;
+}
+
